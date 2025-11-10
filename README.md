@@ -1,4 +1,4 @@
-# Asynchronous-text-mini-app
+# Asynchronous-test-mini-app
 비동기  안정화 테스트 미니앱
 
 비동기 작업에 대해 이해하기 위해 만든 테스트
